@@ -1,2 +1,2 @@
-def main(): module")
-    print("Dit is de tweede
+def main():
+    print("Dit is de tweede module")
